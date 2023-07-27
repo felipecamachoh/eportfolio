@@ -975,7 +975,6 @@
   grid-template-columns: 33.3333% 33.3333% 33.3333%;
   min-height: 600px;
   grid-gap: 0px 0px;
-  grid-auto-columns: 33.3333%;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -1103,7 +1102,6 @@
 
   .u-section-4 .u-repeater-1 {
     min-height: 570px;
-    grid-auto-columns: 33.333333333333336%;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -1214,7 +1212,6 @@
   .u-section-4 .u-repeater-1 {
     grid-template-columns: 50% 50%;
     min-height: 1080px;
-    grid-auto-columns: 50%;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -1303,7 +1300,6 @@
 
   .u-section-4 .u-repeater-1 {
     grid-template-columns: 100%;
-    grid-auto-columns: 100%;
   }
 
   .u-section-4 .u-text-1 {
