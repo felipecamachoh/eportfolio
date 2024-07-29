@@ -593,6 +593,7 @@
   transition-duration: 0.5s;
   box-shadow: 2px -2px 8px 0px rgba(128,128,128,1);
   width: 342px;
+  object-position: 50% 1.33%;
   margin: 19px auto 0;
 }
 
@@ -653,8 +654,8 @@
   }
 
   .u-section-4 .u-btn-1 {
-    margin-left: 0;
     font-weight: normal;
+    margin-left: 0;
   }
 
   .u-section-4 .u-image-2 {
@@ -678,8 +679,8 @@
   }
 
   .u-section-4 .u-btn-2 {
-    margin-left: 0;
     font-weight: normal;
+    margin-left: 0;
   }
 
   .u-section-4 .u-image-3 {
@@ -703,8 +704,8 @@
   }
 
   .u-section-4 .u-btn-3 {
-    margin-left: 0;
     font-weight: normal;
+    margin-left: 0;
   }
 }
 
